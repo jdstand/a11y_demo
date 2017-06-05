@@ -1,0 +1,10 @@
+.footer {
+  color: $white;
+  background-color: $black;
+}
+
+.copyright {
+  color: $light-gray;
+  margin-bottom: 0;
+  @include padding-top-bottom($global-padding, $multiplier: 2);
+}

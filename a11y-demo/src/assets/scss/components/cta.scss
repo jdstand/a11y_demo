@@ -1,0 +1,7 @@
+.cta {
+  @include padding-top-bottom($global-padding, $multiplier: 4);
+}
+
+.cta-alt {
+  background-color: $light-gray;
+}
